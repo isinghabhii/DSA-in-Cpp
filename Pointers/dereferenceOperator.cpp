@@ -8,5 +8,8 @@ int main(){
     cout << &a << "\n";
     cout << *ptr << "\n";
 
+    *ptr = 20;
+    cout << a << "\n";
+
     return 0;
 }
