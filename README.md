@@ -20,7 +20,7 @@ I am regularly updating it as I learn new topics.
 - ✅ Patterns
 - ✅ Functions
 - ✅ Binary Number System
-- 🔄 Pointers
+- ✅ Pointers
 - ⏳ Arrays
 - ⏳ Strings
 - ⏳ Recursion
