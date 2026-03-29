@@ -21,7 +21,7 @@ I am regularly updating it as I learn new topics.
 - ✅ Functions
 - ✅ Binary Number System
 - ✅ Pointers
-- ⏳ Arrays
+- 🔄 Arrays
 - ⏳ Strings
 - ⏳ Recursion
 - ⏳ Sorting Algorithms
