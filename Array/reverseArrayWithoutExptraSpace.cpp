@@ -18,9 +18,11 @@ int main(){
 
     while(start < end){
         //swap
-        int temp = arr[start];
-        arr[start] = arr[end];
-        arr[end] = temp;
+        // int temp = arr[start];
+        // arr[start] = arr[end];
+        // arr[end] = temp;
+
+        swap(arr[start], arr[end]); // inbuilt function
 
         start++;
         end--;
@@ -29,3 +31,6 @@ int main(){
     printArr(arr, n);
     return 0;
 }
+
+// sc = O(1)
+// TC = O(n)
