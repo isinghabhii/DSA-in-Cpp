@@ -25,3 +25,5 @@ int main(){
     cout << binarySearch(arr, n, 12) << "\n";
     return 0;
 }
+
+// TC : O(log n)
