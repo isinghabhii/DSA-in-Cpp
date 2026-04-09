@@ -37,3 +37,5 @@ int main(){
     trap(heights, n);
     return 0;
 }
+
+// TC: O(n)
