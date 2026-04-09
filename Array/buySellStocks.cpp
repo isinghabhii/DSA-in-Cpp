@@ -17,6 +17,8 @@ void maxProfit(int *prices, int n){
         maxProfit = max(maxProfit, currProfit);
     }
 
+    // TC: O(n + n) = O(2n) = O(n)
+
     cout << "max Profit = " << maxProfit << endl;
 }
 
