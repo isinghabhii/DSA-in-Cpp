@@ -8,7 +8,7 @@ void print(int arr[], int n){
     cout << endl;
 }
 
-void selectioSort(int arr[], int n){
+void selectionSort(int arr[], int n){
     //TC: O(n^2)
     for(int i=0; i<n-1; i++){
         int minIdx = i;
@@ -26,7 +26,7 @@ void selectioSort(int arr[], int n){
 
 int main(){
     int arr[5] = {5, 4, 1, 3, 2};
-    selectioSort(arr, 5);
+    selectionSort(arr, 5);
 
     return 0;
 }
