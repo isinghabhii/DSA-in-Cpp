@@ -13,6 +13,9 @@ int main(){
     cout << marks[2] << endl; //3
 
     cout << sizeof(marks) << endl; // 20B => 5 * 4B
-    cout << sizeof(marks)/sizeof(int) << endl; // 5 => length of array
+    cout << sizeof(marks)/sizeof(int) << endl; // 20/4 => 5 => length of array
+
+    double price[] = {90.99, 105.89, 30.00}; //3
+    cout << price[0] << endl; //90.99
     return 0;
 }
