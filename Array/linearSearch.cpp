@@ -3,11 +3,11 @@ using namespace std;
 
 int linerSearch(int *arr, int n, int key){  //TC = O(n)
     for(int i=0; i<n; i++){
-        if(arr[i] == key){
+        if(arr[i] == key){ // FOUND
             return i;
         }
     }
-    return -1;
+    return -1; // NOT FOUND
 }
 
 int main(){
