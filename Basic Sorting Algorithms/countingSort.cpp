@@ -10,7 +10,7 @@ void print(int arr[], int n){
 
 //TC: O(n)
 void countSort(int arr[], int n){
-    int freq[100000]; //ramge
+    int freq[100000]; //range
     int minVal = INT8_MAX, maxVal = INT8_MIN;
     
     //1st step - O(n)
