@@ -1,3 +1,5 @@
+//Qs. Sort this array of characters using insertion sort in descending order.
+
 #include<iostream>
 using namespace std;
 
@@ -8,6 +10,8 @@ void print(char arr[], int n){
     cout << endl;
 }
 
+// inserion sort logic in descending order
+// TC => O(n^2)
 
 void sortChar(char arr[], int n){
 
@@ -30,3 +34,9 @@ int main(){
 
     return 0;
 }
+
+// 1 < 2 => true
+// 1 > 2 => false
+
+// 'a' < 'b' => true
+// 'a' > 'b' => false
