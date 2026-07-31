@@ -20,3 +20,5 @@ int main(){
     print(arr, 8);
     return 0;
 }
+
+// inbuilt sort : TC => O(n logn)
