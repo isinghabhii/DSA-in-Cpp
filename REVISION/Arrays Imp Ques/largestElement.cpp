@@ -11,7 +11,7 @@ int main(){
     // sort(arr, arr+n);
     // cout << arr[n-1] << endl;
 
-    int largest = arr[0]; //Optimal Soln => TC: O(n) => much better than brute force approach
+    int largest = arr[0]; //Optimal Soln => TC: O(n) => much better then brute force approach
     for(int i=0; i<n; i++){
         if(arr[i] > largest)
             largest = arr[i];
