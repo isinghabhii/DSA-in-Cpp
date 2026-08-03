@@ -26,3 +26,5 @@ int main(){
     
     return 0;
 }
+
+// A 2D array is represented as a contiguous block of memory cells (linearly).
