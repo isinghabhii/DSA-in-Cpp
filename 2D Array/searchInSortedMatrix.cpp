@@ -49,7 +49,7 @@ using namespace std;
 //     cout << "Target Not Found";
 // }
 
-// Staircase search - TC: O(n + m) => Better 
+// Staircase search - TC: O(n + m) => Better  || if n>>>m => O(n) , if m>>>n => O(m)
 bool searchInSortedMatrix(int matrix[][4], int n, int m, int key) {
     int i = 0, j = m-1;
 
