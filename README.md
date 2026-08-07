@@ -21,8 +21,11 @@ I am regularly updating it as I learn new topics.
 - ✅ Functions
 - ✅ Binary Number System
 - ✅ Pointers
-- 🔄 Arrays
-- ⏳ Strings
+- ✅ Arrays
+- ✅ Strings
+- 🔄 Vector
+- ⏳ Bit Manipulation
+- ⏳ OOPs
 - ⏳ Recursion
 - ⏳ Sorting Algorithms
 - ⏳ Searching Algorithms
