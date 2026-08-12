@@ -8,6 +8,10 @@ void print(int n){
 
     cout << n << " "; //kaam
     print(n-1); // faith, next call
+    
+    // Increasing Order
+    // print(n-1);  
+    // cout << n << " ";
 }
 
 int main(){
