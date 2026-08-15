@@ -25,8 +25,8 @@ I am regularly updating it as I learn new topics.
 - ✅ Strings
 - ✅ Vector
 - ✅ Bit Manipulation
-- 🔄 OOPs
-- ⏳ Recursion
+- ✅ OOPs
+- 🔄 Recursion
 - ⏳ Sorting Algorithms
 - ⏳ Searching Algorithms
 - ⏳ Linked List
