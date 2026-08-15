@@ -23,9 +23,9 @@ I am regularly updating it as I learn new topics.
 - ✅ Pointers
 - ✅ Arrays
 - ✅ Strings
-- 🔄 Vector
-- ⏳ Bit Manipulation
-- ⏳ OOPs
+- ✅ Vector
+- ✅ Bit Manipulation
+- 🔄 OOPs
 - ⏳ Recursion
 - ⏳ Sorting Algorithms
 - ⏳ Searching Algorithms
